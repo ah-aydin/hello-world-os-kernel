@@ -1,0 +1,4 @@
+osdir/
+*.o
+*.bin
+*.iso
